@@ -10,7 +10,7 @@
  
 <p>
 
-<img align="center" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/685641595428536322/996884025245438082/download20220703173839.png">
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/685641595428536322/996884025245438082/download20220703173839.png">
 </div>
 
 
