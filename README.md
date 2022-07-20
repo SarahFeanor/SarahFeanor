@@ -6,13 +6,10 @@
 <div align="center">
   <a href="https://github.com/sarahfeanor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarahfeanor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/685641595428536322/996884025245438082/download20220703173839.png">
 </div>
  
 <p>
-
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/685641595428536322/996884025245438082/download20220703173839.png">
-</div>
-
 
 <div> 
   
