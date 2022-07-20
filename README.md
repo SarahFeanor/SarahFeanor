@@ -2,6 +2,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Estudando Python. 
+  
+  Em breve irei descarregar meus projetos aqui! 
 
 <div align="center">
   <a href="https://github.com/sarahfeanor">
