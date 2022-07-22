@@ -3,9 +3,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Estudando Python. 
   
-  “In God we trust. All others, bring data”. W. Edwards Deming
-  
-  
+  “In God we trust. All others, bring data”. W. Edwards Deming 
 
 <div align="center">
   <a href="https://github.com/sarahfeanor">
@@ -13,8 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
- 
-<p>
 
 <div> 
   
