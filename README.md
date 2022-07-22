@@ -1,9 +1,4 @@
-### Olá, sou Sarah F. Rezende! 🦊 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Estudando Python. 
-  
-  “In God we trust. All others, bring data”. W. Edwards Deming 
+### Olá, sou Sarah F. Rezende! 🦊 “In God we trust. All others, bring data”. W. Edwards Deming 
 
 <div align="center">
   <a href="https://github.com/sarahfeanor">
@@ -11,7 +6,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Estudando Python. 
+  
 <div> 
   
   <a href="https://instagram.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
