@@ -1,4 +1,4 @@
-### Hi, I'm Sarah F. Rezende, student of information system. 🦊 
+### Hi, I'm Sarah F. Rezende! 🦊 
 
 “In God we trust. All others, bring data”. W. Edwards Deming 
 
