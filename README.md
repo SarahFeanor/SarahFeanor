@@ -1,12 +1,5 @@
 ### Hi, I'm Sarah F. Rezende! 🦊 
 
-“In God we trust. All others, bring data”. W. Edwards Deming 
-
-Studying:
-- Python
-- C/C++
-- SQL
-
 <div align="center">
   <a href="https://github.com/sarahfeanor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarahfeanor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
