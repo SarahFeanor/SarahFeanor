@@ -2,7 +2,7 @@
 
 ### Hi, I'm Sarah F. Rezende! <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-Information systems student, specializing in data science. Here are some of my study projects. 
+Information systems student, specializing in Data Science. Here are some of my study projects. 
 
 
 </div>
