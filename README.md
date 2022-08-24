@@ -1,4 +1,11 @@
-### Hi, I'm Sarah F. Rezende! 
+<div align="center">
+
+### Hi, I'm Sarah F. Rezende! <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+Information systems student, specializing in data science. Here are some of my study projects. 
+
+
+</div>
 
 <div align="center">
 
@@ -16,10 +23,16 @@
   
   
 <div align="center">
- 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  
   <a href="https://instagram.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:sarahfrezende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sarah-rezende-24938818b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+</div>
+
+
+<div align="center">
+
+Thank you for your visit, close the door when you leave!
+
 </div>
