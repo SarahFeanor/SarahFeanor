@@ -1,4 +1,4 @@
-### Hi, I'm Sarah F. Rezende! 🦊 
+### Hi, I'm Sarah F. Rezende! 
 
 <div align="center">
   <a href="https://github.com/sarahfeanor">
