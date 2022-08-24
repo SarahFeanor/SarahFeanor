@@ -11,7 +11,7 @@ Information systems student, specializing in Data Science. Here are some of my s
 
   <a href="https://github.com/sarahfeanor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarahfeanor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&layout=compact&langs_count=7&theme=dracula"/>
 
 </div> 
 
