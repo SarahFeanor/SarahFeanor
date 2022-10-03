@@ -51,7 +51,7 @@ I'm studying **Data Science** and **Data Analysis**. Here are some of my study p
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-squareflat-square&logo=Github)
- ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-squareflat-square&logo=visual-studio-code)flat-square
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-squareflat-square&logo=visual-studio-code)
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-squareflat-square&logo=mysql&logoColor=white)
  
  #### 🎲 Ciência de dados:
