@@ -48,32 +48,32 @@ I'm studying **Data Science** and **Data Analysis**. Here are some of my study p
  ## 🚀 **Linguagens e Ferramentas:**
 
  #### 💻 Uso diário:
- ![Python](https://img.shields.io/badge/-Python-black?style=flat-plastic&logo=Python)
- ![Git](https://img.shields.io/badge/-Git-black?style=flat-plastic&logo=Git)
- ![Github](https://img.shields.io/badge/-Github-black?style=flat-plastic&logo=Github)
- ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-plastic&logo=visual-studio-code)
- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-plastic&logo=mysql&logoColor=white)
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+ ![Github](https://img.shields.io/badge/-Github-black?style=flat-squareflat-square&logo=Github)
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-squareflat-square&logo=visual-studio-code)flat-square
+ ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-squareflat-square&logo=mysql&logoColor=white)
  
  #### 🎲 Ciência de dados:
- ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-plastic&logo=Pandas)
- ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-plastic&logo=Numpy)
- ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-plastic&logo=Jupyter)
+ ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-squareflat-square&logo=Pandas)
+ ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-squareflat-square&logo=Numpy)
+ ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-squareflat-square&logo=Jupyter)
  
  
  #### 📚 Tenho conhecimento básico:
  
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
- ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-plastic&logo=Databricks)
- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-plastic&logo=PostgreSQL)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
+ ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 
  
  #### 🌱 Estou aprendendo:
  
- ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-plastic&logo=Amazon-AWS)
- ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-plastic&logo=Microsoft-Azure)
+ ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
+ ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
- ![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-plastic&logo=Linux) 
+ ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
+ ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux) 
 
 </br>
 
