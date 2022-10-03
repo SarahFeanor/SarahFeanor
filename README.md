@@ -80,7 +80,7 @@ I'm studying **Data Science** and **Data Analysis**. Here are some of my study p
 <b> ⚡ Principais Repositórios</b>:
 
 <a href="https://github.com/SarahFeanor/Python_Projects">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Data_Science&theme=dark" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=SarahFeanor&repo=Python_Projects&theme=dracula" />
 </a>
 
  
