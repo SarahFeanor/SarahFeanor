@@ -2,7 +2,7 @@
 
 ### Hi, I'm Sarah F. Rezende! <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-Estou estudando **Ciência de Dados** e **Analise de Dados**. Aqui estão alguns dos meus projetos de estudo.
+Estudando **Ciência de Dados** e **Analise de Dados**. Aqui estão alguns dos meus projetos de estudo.
 
 I'm studying **Data Science** and **Data Analysis**. Here are some of my study projects.
 
