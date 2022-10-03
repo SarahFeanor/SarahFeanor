@@ -79,8 +79,8 @@ I'm studying **Data Science** and **Data Analysis**. Here are some of my study p
 
 <b> ⚡ Principais Repositórios</b>:
 
-<a href="https://github.com/SarahFeanor/Python_Projects">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=SarahFeanor&repo=Python_Projects&theme=dracula" />
+<a href="https://github.com/SarahFeanor/Projetos_Python">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=SarahFeanor&repo=Projetos_Python&theme=dracula" />
 </a>
 
  
