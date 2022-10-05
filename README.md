@@ -86,6 +86,6 @@ I'm studying **Data Science** and **Data Analysis**. Here are some of my study p
 
 
 <br> </br> <div align="center">
-## *Thank you for your visit, close the door when you leave!*
+#### *Thank you for your visit, close the door when you leave!*
 
 </div>
