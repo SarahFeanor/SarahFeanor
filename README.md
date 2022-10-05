@@ -84,6 +84,7 @@ I'm studying **Data Science** and **Data Analysis**. Here are some of my study p
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=SarahFeanor&repo=Projects_PowerBI&theme=dracula" />
 </a>
 
+
 <br> </br> <div align="center">
 ## *Thank you for your visit, close the door when you leave!*
 
