@@ -6,8 +6,6 @@ Estudando **Ciência de Dados** e **Analise de Dados**. Aqui estão alguns dos m
 
 I'm studying **Data Science** and **Data Analysis**. Here are some of my study projects.
 
-<br>
-
 
 <a href="https://github.com/sarahfeanor">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sarahfeanor&show_icons=true&theme=dracula&include_commits=true"/>
@@ -15,7 +13,7 @@ I'm studying **Data Science** and **Data Analysis**. Here are some of my study p
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 
-
+  
 </div>
 
 <div align="center">
@@ -77,7 +75,7 @@ I'm studying **Data Science** and **Data Analysis**. Here are some of my study p
 <b> ⚡ Principais Repositórios</b>:
 
 <a href="https://github.com/SarahFeanor/Projects_Python">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=SarahFeanor&repo=Projcts_Python&theme=dracula" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=SarahFeanor&repo=Projects_Python&theme=dracula" />
 </a>
 
 <a href="https://github.com/SarahFeanor/Projects_PowerBI">
