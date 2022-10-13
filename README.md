@@ -4,7 +4,6 @@
 [![capa](https://cdn.discordapp.com/attachments/685641595428536322/1030144479107223622/IMG_7700.png)](https://github.com/SarahFeanor?tab=repositories)
 ---
 
-
 <div align="center">
 
 ### Welcome, may the force be with you! <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -13,7 +12,7 @@ Estudando **Ciência de Dados** e **Analise de Dados**. Aqui estão alguns dos m
 
 I'm studying **Data Science** and **Data Analysis**. Here are some of my study projects.
 
-
+---
 
 <a href="https://github.com/sarahfeanor">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sarahfeanor&show_icons=true&theme=dracula&include_commits=true"/>
@@ -21,11 +20,9 @@ I'm studying **Data Science** and **Data Analysis**. Here are some of my study p
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 
-  
 </div>
 
 <div align="center">
-
 
 </div> 
 
