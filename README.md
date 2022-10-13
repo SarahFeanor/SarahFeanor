@@ -1,7 +1,7 @@
 
 
 
-[![capa](https://cdn.discordapp.com/attachments/685641595428536322/1030135166091415652/IMG_7692.png)](https://github.com/SarahFeanor?tab=repositories)
+[![capa](https://cdn.discordapp.com/attachments/685641595428536322/1030144479107223622/IMG_7700.png)](https://github.com/SarahFeanor?tab=repositories)
 ---
 
 
