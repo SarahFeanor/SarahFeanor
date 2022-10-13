@@ -1,3 +1,10 @@
+
+
+
+[![capa](https://cdn.discordapp.com/attachments/685641595428536322/1030135166091415652/IMG_7692.png)](https://github.com/SarahFeanor?tab=repositories)
+---
+
+
 <div align="center">
 
 ### Hi, I'm Sarah F. Rezende! <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
