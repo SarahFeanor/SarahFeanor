@@ -12,7 +12,7 @@ Estudando **Ciência de Dados** e **Analise de Dados**. Aqui estão alguns dos m
 
 I'm studying **Data Science** and **Data Analysis**. Here are some of my study projects.
 
----
+
 
 <a href="https://github.com/sarahfeanor">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sarahfeanor&show_icons=true&theme=dracula&include_commits=true"/>
@@ -29,21 +29,8 @@ I'm studying **Data Science** and **Data Analysis**. Here are some of my study p
  
 <div align="center">
  
-
 </div>
   
-  
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/sarahfrezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:sarahfrezende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.kaggle.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
-
-    
-  
-</div>
-
 <br>
 
  ## 🚀 **Linguagens e Ferramentas:**
@@ -78,15 +65,18 @@ I'm studying **Data Science** and **Data Analysis**. Here are some of my study p
 
 </br>
 
-<b> ⚡ Principais Repositórios</b>:
-
-<a href="https://github.com/SarahFeanor/Projects_Python">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=SarahFeanor&repo=Projects_Python&theme=dracula" />
-</a> <a href="https://github.com/SarahFeanor/Projects_PowerBI">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=SarahFeanor&repo=Projects_PowerBI&theme=dracula" />
-</a> 
 
 <br> </br> <div align="center">
 #### *Thank you for your visit, close the door when you leave!*
+
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/sarahfrezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:sarahfrezende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.kaggle.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+
+ 
+</div>
 
 </div>
