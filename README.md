@@ -4,11 +4,12 @@
 
 <div align="center">
 
-### Welcome, may the force be with you! <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+### Welcome, I'm Sarah! May the force be with you!
+
+I'm studying **Data Science** and **Data Analysis**. Here are some of my study projects.
 
 Estudando **Ciência de Dados** e **Analise de Dados**. Aqui estão alguns dos meus projetos de estudo.
 
-I'm studying **Data Science** and **Data Analysis**. Here are some of my study projects.
  
  <div id="header" align="center">
   <img src="https://www.puttiapps.com/home-2021-may/business_analitics-3/" width="250"/>
@@ -75,7 +76,7 @@ I'm studying **Data Science** and **Data Analysis**. Here are some of my study p
 
  
  
-#### *Thank you for your visit, close the door when you leave!*
+#### *Thank you for your visit, close the door when you leave!*  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
   <a href="https://www.linkedin.com/in/sarahfrezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sarahfrezende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
