@@ -1,6 +1,4 @@
 
-
-
 [![capa](https://cdn.discordapp.com/attachments/685641595428536322/1030144479107223622/IMG_7700.png)](https://github.com/SarahFeanor?tab=repositories)
 ---
 
@@ -11,8 +9,13 @@
 Estudando **Ciência de Dados** e **Analise de Dados**. Aqui estão alguns dos meus projetos de estudo.
 
 I'm studying **Data Science** and **Data Analysis**. Here are some of my study projects.
+ 
+<div id="header" align="center">
+  <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/business_analitics-2.gif" width="250"/>
+ </div>
+ 
 
- <a href="https://github.com/sarahfeanor">
+<a href="https://github.com/sarahfeanor">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sarahfeanor&show_icons=true&theme=gruvbox&include_commits=true"/>
 
  </a> 
@@ -28,7 +31,6 @@ I'm studying **Data Science** and **Data Analysis**. Here are some of my study p
 
 </div> 
 
- 
 <div align="center">
  
 </div>
@@ -68,11 +70,13 @@ I'm studying **Data Science** and **Data Analysis**. Here are some of my study p
 </br>
 
 
-<br> </br> <div align="center">
-#### *Thank you for your visit, close the door when you leave!*
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp" width="250"/>
 
-<div align="center">
-  
+ 
+ 
+#### *Thank you for your visit, close the door when you leave!*
+ 
   <a href="https://www.linkedin.com/in/sarahfrezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sarahfrezende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
