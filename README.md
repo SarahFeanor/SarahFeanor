@@ -12,6 +12,15 @@ Estudando **Ciência de Dados** e **Analise de Dados**. Aqui estão alguns dos m
 
 I'm studying **Data Science** and **Data Analysis**. Here are some of my study projects.
 
+ <a href="https://github.com/sarahfeanor">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sarahfeanor&show_icons=true&theme=gruvbox&include_commits=true"/>
+
+ </a> 
+ 
+ <a href="https://github.com/sarahfeanor">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&layout=compact&langs_count=8&theme=gruvbox"/>
+
+ </a>
 
 </div>
 
