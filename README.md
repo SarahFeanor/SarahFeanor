@@ -10,8 +10,8 @@ Estudando **Ciência de Dados** e **Analise de Dados**. Aqui estão alguns dos m
 
 I'm studying **Data Science** and **Data Analysis**. Here are some of my study projects.
  
-<div id="header" align="center">
-  <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/business_analitics-2.gif" width="250"/>
+ <div id="header" align="center">
+  <img src="https://www.puttiapps.com/home-2021-may/business_analitics-3/" width="250"/>
  </div>
  
 
