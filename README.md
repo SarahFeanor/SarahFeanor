@@ -10,57 +10,36 @@ I'm studying **Data Science** and **Data Analysis**. Here are some of my study p
 
 Estudando **Ciência de Dados** e **Analise de Dados**. Aqui estão alguns dos meus projetos de estudo.
 
- 
  <div id="header" align="center">
   <img src="https://www.puttiapps.com/home-2021-may/business_analitics-3/" width="250"/>
  </div>
  
-
-<a href="https://github.com/sarahfeanor">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sarahfeanor&show_icons=true&theme=gruvbox&include_commits=true"/>
-
- </a> 
- 
- <a href="https://github.com/sarahfeanor">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&layout=compact&langs_count=8&theme=gruvbox"/>
-
- </a>
-
+</a>
 </div>
 
-<div align="center">
+## 🚀 **Languages and Tools:**
 
-</div> 
-
-<div align="center">
- 
-</div>
-  
-<br>
-
- ## 🚀 **Linguagens e Ferramentas:**
-
- #### 💻 Uso diário:
+ #### 💻 Uso diário (daily use):
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-squareflat-square&logo=Github)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-squareflat-square&logo=visual-studio-code)
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-squareflat-square&logo=mysql&logoColor=white)
  
- #### 🎲 Ciência de dados:
+ #### 🎲 Ciência de dados (data science):
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-squareflat-square&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-squareflat-square&logo=Numpy)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-squareflat-square&logo=Jupyter)
  
  
- #### 📚 Tenho conhecimento básico:
+ #### 📚 Tenho conhecimento básico (basic knowledge):
  
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
  ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 
  
- #### 🌱 Estou aprendendo:
+ #### 🌱 Estou aprendendo (I'm learning):
  
  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
  ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
@@ -68,11 +47,20 @@ Estudando **Ciência de Dados** e **Analise de Dados**. Aqui estão alguns dos m
  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux) 
 
-</br>
+## 📊 **My Stats:**
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&hide=html&layout=compact&theme=dracula" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=sarahfeanor&theme=dracula" /></td>
+    </tr>   
+  </table>
+</center>  
 
+<br> 
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp" width="250"/>
+  <img src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp" width="200"/>
 
  
  
