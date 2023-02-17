@@ -17,6 +17,10 @@ Estudando **Ciência de Dados** e **Analise de Dados**. Aqui estão alguns dos m
 </a>
 </div>
 
+📈 As a Systems Information undergraduate, my passion for the Data-driven universe has led me to focus my studies on data processing, management, statistics, technological tools, and scientific methodology. My goal is to become a professional capable of turning data into efficient business solutions, through the generation of information and knowledge.
+
+💡 In addition, I have interpersonal skills, including effective communication and the ability to adapt to different contexts. My strong dedication and commitment to projects, as well as the constant search for improvement in critical thinking and business sense, allow me to face everyday challenges and actively participate in the development of automated solutions.
+
 ## 🚀 **Languages and Tools:**
 
  #### 💻 Uso diário (daily use):
