@@ -21,6 +21,16 @@ Estudando **Ciência de Dados** e **Analise de Dados**. Aqui estão alguns dos m
 
 💡 In addition, I have interpersonal skills, including effective communication and the ability to adapt to different contexts. My strong dedication and commitment to projects, as well as the constant search for improvement in critical thinking and business sense, allow me to face everyday challenges and actively participate in the development of automated solutions.
 
+## 📊 **My Stats:**
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&hide=html&layout=compact&theme=dracula" /></td> 
+
+  </table>
+</center>  
+
+
 ## 🚀 **Languages and Tools:**
 
  #### 💻 Uso diário (daily use):
@@ -51,15 +61,6 @@ Estudando **Ciência de Dados** e **Analise de Dados**. Aqui estão alguns dos m
  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux) 
 
-## 📊 **My Stats:**
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&hide=html&layout=compact&theme=dracula" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=sarahfeanor&theme=dracula" /></td>
-    </tr>   
-  </table>
-</center>  
 
 <br> 
 
