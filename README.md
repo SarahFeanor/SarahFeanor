@@ -1,10 +1,11 @@
-
 [![capa](https://cdn.discordapp.com/attachments/1063559719291199599/1075453403674710139/IMG_0287.png)](https://github.com/SarahFeanor?tab=repositories)
 ---
 
 <div align="center">
 
-### Welcome, I'm Sarah! May the force be with you!
+ # SARAH FARIA REZENDE 
+
+ ### Welcome, may the force be with you!
 
 I'm studying **Data Science** and **Data Analysis**. Here are some of my study projects.
 
