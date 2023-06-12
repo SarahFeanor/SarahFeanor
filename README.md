@@ -7,9 +7,9 @@
 
  ### Welcome, may the force be with you!
 
-I'm studying **Data Science** and **Data Analysis**. Here are some of my study projects.
-
-Estudando **Ciência de Dados** e **Analise de Dados**. Aqui estão alguns dos meus projetos de estudo.
+I'm a student of **Information Systems** . Here are some of my study projects.
+ 
+Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus projetos de estudo.
 
  <div id="header" align="center">
   <img src="https://www.puttiapps.com/home-2021-may/business_analitics-3/" width="250"/>
@@ -20,7 +20,7 @@ Estudando **Ciência de Dados** e **Analise de Dados**. Aqui estão alguns dos m
 
 📈 As an Information Systems student, my passion for the Data-driven universe has led me to focus my studies on data processing, management, statistics, technological tools, and scientific methodology. My goal is to become a professional capable of turning data into efficient business solutions, through the generation of information and knowledge.
 
-💻 I am also passionate about the mainframe universe and have dedicated myself to the study of languages such as COBOL, exploring its syntax and structure, as well as its practical applications in mainframes. I am constantly looking to learn more about the peculiarities and features of this language that is so relevant to many organizations.
+💻 I'm also passionate about the mainframe universe and have dedicated myself to the study of languages such as COBOL, exploring its syntax and structure, as well as its practical applications in mainframes. I am constantly looking to learn more about the peculiarities and features of this language that is so relevant to many organizations.
 
 💡 In addition, I have interpersonal skills, including effective communication and the ability to adapt to different contexts. My strong dedication and commitment to projects, as well as the constant search for improvement in critical thinking and business sense, allow me to face everyday challenges and actively participate in the development of automated solutions.
 
