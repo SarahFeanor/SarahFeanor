@@ -20,7 +20,7 @@ Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus proje
 
 
 
-⚡ Information Systems student, passionate about technology and its impact on the world and businesses. I strive to apply my knowledge to solve complex challenges, drive innovation, and contribute to a more connected and sustainable world. I stay updated on the latest technological trends and seek opportunities to collaborate with talented teams, share ideas, and create innovative solutions. My goal is to make a positive impact by transforming challenges into opportunities and shaping a better future through technology.
+⚡ I'm a student of Information Systems, passionate about technology and its impact on the world and businesses. I strive to apply my knowledge to solve complex challenges, drive innovation, and contribute to a more connected and sustainable world. I stay updated on the latest technological trends and seek opportunities to collaborate with talented teams, share ideas, and create innovative solutions. My goal is to make a positive impact by transforming challenges into opportunities and shaping a better future through technology.
 
 💻 I also have knowledge in integrated business management, Agile methodology, Design Thinking, Git/GitHub, Mainframe (IBM), COBOL, Office, Feegow, and LGPD. I have expertise in Python with a focus on Data Analysis and Data Science, along with skills in essential libraries such as Pandas, NumPy, Scikit-Learn, and Matplotlib. Additionally, I possess skills in SQL/MySQL, ETL, Power BI, DataBricks, storytelling with data, statistics, predictive analytics, and time series analysis, enabling me to develop and analyze processes and information in databases and meet client needs.
 
