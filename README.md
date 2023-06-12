@@ -18,9 +18,11 @@ Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus proje
 </a>
 </div>
 
-📈 As an Information Systems student, my passion for the Data-driven universe has led me to focus my studies on data processing, management, statistics, technological tools, and scientific methodology. My goal is to become a professional capable of turning data into efficient business solutions, through the generation of information and knowledge.
 
-💻 I'm also passionate about the mainframe universe and have dedicated myself to the study of languages such as COBOL, exploring its syntax and structure, as well as its practical applications in mainframes. I am constantly looking to learn more about the peculiarities and features of this language that is so relevant to many organizations.
+
+⚡ Information Systems student, passionate about technology and its impact on the world and businesses. I strive to apply my knowledge to solve complex challenges, drive innovation, and contribute to a more connected and sustainable world. I stay updated on the latest technological trends and seek opportunities to collaborate with talented teams, share ideas, and create innovative solutions. My goal is to make a positive impact by transforming challenges into opportunities and shaping a better future through technology.
+
+💻 I also have knowledge in integrated business management, Agile methodology, Design Thinking, Git/GitHub, Mainframe (IBM), COBOL, Office, Feegow, and LGPD. I have expertise in Python with a focus on Data Analysis and Data Science, along with skills in essential libraries such as Pandas, NumPy, Scikit-Learn, and Matplotlib. Additionally, I possess skills in SQL/MySQL, ETL, Power BI, DataBricks, storytelling with data, statistics, predictive analytics, and time series analysis, enabling me to develop and analyze processes and information in databases and meet client needs.
 
 💡 In addition, I have interpersonal skills, including effective communication and the ability to adapt to different contexts. My strong dedication and commitment to projects, as well as the constant search for improvement in critical thinking and business sense, allow me to face everyday challenges and actively participate in the development of automated solutions.
 
