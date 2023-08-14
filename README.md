@@ -66,6 +66,9 @@ Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus proje
  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux) 
 
+## ⚡ **Principais Repositórios:**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio-DataScience\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio-DataScience) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio_PowerBi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio_PowerBi) 
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp" width="200"/>
