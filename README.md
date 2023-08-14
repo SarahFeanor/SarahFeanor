@@ -67,8 +67,6 @@ Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus proje
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux) 
 
 
-<br> 
-
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp" width="200"/>
 
@@ -81,7 +79,7 @@ Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus proje
    <a href="https://instagram.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.kaggle.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
 
- 
+
 </div>
 
 </div>
