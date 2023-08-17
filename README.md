@@ -18,13 +18,26 @@ Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus proje
 </a>
 </div>
 
+👋 Olá, eu sou Sarah Rezende! Uma apaixonada analista de dados com foco em transformar informações em insights valiosos. Minha jornada profissional é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos.
 
+🔍 Como Analista de Dados, meu objetivo é desvendar padrões ocultos nos dados e contar histórias convincentes por meio de análises. Meu portfólio inclui projetos de Ciência de Dados que abordam desde previsões de tendências até a segmentação de clientes, bem como aplicações práticas no Power BI que simplificam dados complexos em insights claros.
 
-⚡ I'm a student of Information Systems, passionate about technology and its impact on the world and businesses. I strive to apply my knowledge to solve complex challenges, drive innovation, and contribute to a more connected and sustainable world. I stay updated on the latest technological trends and seek opportunities to collaborate with talented teams, share ideas, and create innovative solutions. My goal is to make a positive impact by transforming challenges into opportunities and shaping a better future through technology.
+🛠️ Minhas Hard Skills:
+- Manipulação de dados com Python (pandas, numpy)
+- Análise estatística e modelagem (scikit-learn, statsmodels)
+- Visualização de dados (Matplotlib, Seaborn, Power BI)
+- SQL para consultas e análises de bancos de dados
+- Limpeza e preparação de dados para insights confiáveis
 
-💻 I have expertise in Python with a focus on Data Analysis and Data Science, along with skills in essential libraries such as Pandas, NumPy, Scikit-Learn, and Matplotlib. Additionally, I possess skills in SQL/MySQL, ETL, Power BI, DataBricks, storytelling with data, statistics, predictive analytics, and time series analysis, enabling me to develop and analyze processes and information in databases and meet client needs. I also have knowledge in integrated business management, Agile methodology, Design Thinking, Git/GitHub, Mainframe (IBM), COBOL, Office, Feegow, and LGPD. 
+🤝 Minhas Soft Skills:
+- Pensamento analítico e resolução de problemas
+- Comunicação clara de resultados complexos
+- Curiosidade para explorar e descobrir tendências
+- Trabalho em equipe para colaborar em projetos multidisciplinares
+- Foco em detalhes para garantir precisão nas análises
 
-💡 In addition, I have interpersonal skills, including effective communication and the ability to adapt to different contexts. My strong dedication and commitment to projects, as well as the constant search for improvement in critical thinking and business sense, allow me to face everyday challenges and actively participate in the development of automated solutions.
+🚀 Estou sempre em busca de desafios empolgantes e oportunidades de aprendizado contínuo. Vamos conectar e explorar o mundo dos dados juntos!
+
 
 ## 📊 **My Stats:**
 <center>
