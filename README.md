@@ -38,16 +38,9 @@ Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus proje
 
 🚀 Estou sempre em busca de desafios empolgantes e oportunidades de aprendizado contínuo. Vamos conectar e explorar o mundo dos dados juntos!
 
+## ⚡ **Principais Repositórios:**
 
-## 📊 **My Stats:**
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&hide=html&layout=compact&theme=dracula" /></td> 
-
-  </table>
-</center>  
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio-DataScience\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio-DataScience) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio_PowerBi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio_PowerBi) 
 
 ## 🚀 **Languages and Tools:**
 
@@ -79,9 +72,15 @@ Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus proje
  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux) 
 
-## ⚡ **Principais Repositórios:**
+## 📊 **My Stats:**
+<center>
+  <table>
+    <tr>
+        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&hide=html&layout=compact&theme=dracula" /></td> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio-DataScience\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio-DataScience) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarahfeanor&repo=Portfolio_PowerBi\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/sarahfeanor/Portfolio_PowerBi) 
+  </table>
+</center>  
+
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.webp" width="200"/>
