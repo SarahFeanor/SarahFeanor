@@ -1,6 +1,5 @@
 [![capa](https://cdn.discordapp.com/attachments/1063559719291199599/1075453403674710139/IMG_0287.png)](https://github.com/SarahFeanor?tab=repositories)
 ---
-
 <div align="center">
 
  # SARAH FARIA REZENDE 
@@ -18,25 +17,13 @@ Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus proje
 </a>
 </div>
 
-👋 Olá, eu sou Sarah Rezende! Estudo Análise de dados com foco em transformar informações em insights valiosos. Minha jornada profissional é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos.
+📊 Como Analista de Dados tenho objetivo de transformar informações em insights valiosos. Minha jornada profissional é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos. Busco desvendar padrões ocultos nos dados, contando histórias convincentes por meio de análises. Meu portfólio inclui projetos de Ciência de Dados, desde previsões de tendências até a segmentação de clientes, e aplicações práticas no Power BI para simplificar dados complexos. Possuo habilidades em manipulação de dados com Python, análise estatística, modelagem, visualização de dados, SQL, limpeza e preparação de dados. 
 
-🔍 Como Analista de Dados, meu objetivo é desvendar padrões ocultos nos dados e contar histórias convincentes por meio de análises. Meu portfólio inclui projetos de Ciência de Dados que abordam desde previsões de tendências até a segmentação de clientes, bem como aplicações práticas no Power BI que simplificam dados complexos em insights claros.
-
-🛠️ Minhas Hard Skills:
-- Manipulação de dados com Python (pandas, numpy)
-- Análise estatística e modelagem (scikit-learn, statsmodels)
-- Visualização de dados (Matplotlib, Seaborn, Power BI)
-- SQL para consultas e análises de bancos de dados
-- Limpeza e preparação de dados para insights confiáveis
-
-🤝 Minhas Soft Skills:
-- Pensamento analítico e resolução de problemas
-- Comunicação clara de resultados complexos
-- Curiosidade para explorar e descobrir tendências
-- Trabalho em equipe para colaborar em projetos multidisciplinares
-- Foco em detalhes para garantir precisão nas análises
+📊 As a Data Analyst, my goal is to transform information into valuable insights. My professional journey is guided by the exploration of data, creating impactful visualizations, and solving complex problems. I seek to uncover hidden patterns in data, telling compelling stories through analysis. My portfolio includes Data Science projects ranging from trend predictions to customer segmentation, with practical applications in Power BI to streamline complex data. I possess skills in data manipulation with Python, statistical analysis, modeling, data visualization, SQL, and data cleaning and preparation.
 
 🚀 Estou sempre em busca de desafios empolgantes e oportunidades de aprendizado contínuo. Vamos conectar e explorar o mundo dos dados juntos!
+
+---
 
 ## ⚡ **Principais Repositórios:**
 
