@@ -59,14 +59,16 @@ Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus proje
  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux) 
 
-## 📊 **My Stats:**
-<center>
-  <table>
-    <tr>
-        <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&hide=html&layout=compact&theme=dracula" /></td> 
 
-  </table>
-</center>  
+## 📊 **My Stats:**
+ 
+<img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&hide=html&layout=compact&theme=dracula" /></td> <a href="https://github.com/SarahFeanor/"> <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=sarahfeanor&show_icons=true&theme=dracula&include_commits=true"/>
+</a>
+
+
+
+
+
 
 
 <div id="header" align="center">
@@ -79,7 +81,11 @@ Sou estudante de **Sistemas de Informação**. Aqui estão alguns dos meus proje
   <a href="https://www.linkedin.com/in/sarahfrezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sarahfrezende@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.kaggle.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
+   <a href="https://www.kaggle.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> 
+   <a href="https://sarahfrezende.my.canva.site/portfolio-de-dados/" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=Portfolio&logoColor=white" alt="Portfólio Badge" width="78">
+</a>
+
 
 
 </div>
