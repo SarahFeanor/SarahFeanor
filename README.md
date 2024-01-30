@@ -5,8 +5,6 @@
 
 📊 Como Analista de Dados tenho objetivo de transformar informações em insights valiosos. Minha jornada profissional é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos. Busco desvendar padrões ocultos nos dados, contando histórias convincentes por meio de análises. Meu portfólio inclui projetos de Ciência de Dados, desde previsões de tendências até a segmentação de clientes, e aplicações práticas no Power BI para simplificar dados complexos. Possuo habilidades em manipulação de dados com Python, análise estatística, modelagem, visualização de dados, SQL, limpeza e preparação de dados. 
 
-📊 As a Data Analyst, my goal is to transform information into valuable insights. My professional journey is guided by the exploration of data, creating impactful visualizations, and solving complex problems. I seek to uncover hidden patterns in data, telling compelling stories through analysis. My portfolio includes Data Science projects ranging from trend predictions to customer segmentation, with practical applications in Power BI to streamline complex data. I possess skills in data manipulation with Python, statistical analysis, modeling, data visualization, SQL, and data cleaning and preparation.
-
 🚀 Estou sempre em busca de desafios empolgantes e oportunidades de aprendizado contínuo. Vamos conectar e explorar o mundo dos dados juntos!
 
 
