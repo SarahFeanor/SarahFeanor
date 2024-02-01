@@ -3,7 +3,7 @@
 
  # SARAH F. REZENDE 
 
-📊 Como Analista de Dados tenho objetivo de transformar informações em insights valiosos. Minha jornada profissional é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos. Busco desvendar padrões ocultos nos dados, contando histórias convincentes por meio de análises. Meu portfólio inclui projetos de Ciência de Dados, desde previsões de tendências até a segmentação de clientes, e aplicações práticas no Power BI para simplificar dados complexos. Possuo habilidades em manipulação de dados com Python, análise estatística, modelagem, visualização de dados, SQL, limpeza e preparação de dados. 
+📊 Minha jornada profissional é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos. Busco desvendar padrões ocultos nos dados, contando histórias convincentes por meio de análises. Meu portfólio inclui projetos de análise e ciência de dados, desde previsões de tendências até a segmentação de clientes, e aplicações práticas no Power BI para simplificar dados complexos. Possuo habilidades em manipulação de dados com Python, análise estatística, modelagem, visualização de dados, SQL, limpeza e preparação de dados. 
 
 🚀 Estou sempre em busca de desafios empolgantes e oportunidades de aprendizado contínuo. Vamos conectar e explorar o mundo dos dados juntos!
 
@@ -47,10 +47,7 @@
  ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux) 
 
-
 ---
-
-
 
 <div id="header" align="center">
 
