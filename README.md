@@ -8,8 +8,6 @@
 🚀 Estou sempre em busca de desafios empolgantes e oportunidades de aprendizado contínuo. Vamos conectar e explorar o mundo dos dados juntos!
 
 
- 
-
 ## ⚡ **Principais Repositórios:**
 
 <div id="header" align="center">
@@ -51,7 +49,7 @@
 
 <div id="header" align="center">
 
-<img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&hide=html&layout=compact&theme=dracula" /></td> <a href="https://github.com/SarahFeanor/"> <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=sarahfeanor&show_icons=true&theme=dracula&include_commits=true"/>
+<img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarahfeanor&hide=html&layout=compact&theme=dark" /></td> <a href="https://github.com/SarahFeanor/"> <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=sarahfeanor&show_icons=true&theme=dark&include_commits=true"/>
 </a>
  
  
