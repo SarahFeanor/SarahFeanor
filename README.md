@@ -1,4 +1,5 @@
-![capa](https://media.discordapp.net/attachments/1063559719291199599/1219014351936291056/Yellow_Minimalist_Computer_Sunday_Sermon_Church_Presentation_1.jpg?ex=6609c295&is=65f74d95&hm=f6791fb13a010101ec4afb219b34361fd591eb82bd7a160e2dd43a70afcacde0&=&format=webp&width=1024&height=247)
+![capa](https://media.discordapp.net/attachments/1063559719291199599/1219061617111859210/ANALISTA_DE_DADOS_E_BI.jpg?ex=6609ee9a&is=65f7799a&hm=24b33ee5f0d4fb49cba381eacdc066d17d90b55df997d4dafb005b43dd4d2430&=&format=webp&width=1024&height=256)
+
 ---
 
 📊 Minha jornada profissional é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos. Busco desvendar padrões ocultos nos dados, contando histórias convincentes por meio de análises. Meu portfólio inclui projetos de análise e ciência de dados, desde previsões de tendências até a segmentação de clientes, e aplicações práticas no Power BI para simplificar dados complexos. Possuo habilidades em manipulação de dados com Python, análise estatística, modelagem, visualização de dados, SQL, limpeza e preparação de dados. 
