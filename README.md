@@ -1,4 +1,17 @@
-![capa](https://media.discordapp.net/attachments/1063559719291199599/1219061617111859210/ANALISTA_DE_DADOS_E_BI.jpg?ex=6609ee9a&is=65f7799a&hm=24b33ee5f0d4fb49cba381eacdc066d17d90b55df997d4dafb005b43dd4d2430&=&format=webp&width=1024&height=256)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+</head>
+<body>
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQFEw6f6m3P39Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711560397088?e=1742428800&v=beta&t=La2KMih4P462Q2Cz7nZWus74v4Id9WQH7U9kpQjTAHE" 
+         alt="Imagem de fundo do LinkedIn" 
+         style="width: 100%
+
+
 
 ---
 
