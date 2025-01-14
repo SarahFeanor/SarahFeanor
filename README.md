@@ -1,5 +1,8 @@
 
 
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFEw6f6m3P39Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711560397088?e=1742428800&v=beta&t=La2KMih4P462Q2Cz7nZWus74v4Id9WQH7U9kpQjTAHE" 
+     alt="Imagem de fundo do LinkedIn" 
+     style="width: 100%; max-width: 1400px;">
 
 
 ---
