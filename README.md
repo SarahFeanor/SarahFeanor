@@ -6,11 +6,14 @@
 
 
 ---
+Atualmente sou **Analista de Dados** no **Grupo Orizonti**, transformo dados em decisões estratégicas por meio de dashboards inteligentes e soluções em Oracle SQL. Minha jornada é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos, desvendando padrões ocultos e contando histórias convincentes através de análises. 
 
-📊 Minha jornada profissional é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos. Busco desvendar padrões ocultos nos dados, contando histórias convincentes por meio de análises. Meu portfólio inclui projetos de análise e ciência de dados, desde previsões de tendências até a segmentação de clientes, e aplicações práticas no Power BI para simplificar dados complexos. Possuo habilidades em manipulação de dados com Python, análise estatística, modelagem, visualização de dados, SQL, limpeza e preparação de dados. 
+📊 Meu portfólio inclui:  
+- Previsões de tendências e segmentação de clientes.  
+- Aplicações práticas no Power BI para simplificar dados complexos.  
+- Manipulação de dados com Python, análise estatística, modelagem, SQL e limpeza de dados.  
 
-🚀 Estou sempre em busca de desafios empolgantes e oportunidades de aprendizado contínuo. Vamos conectar e explorar o mundo dos dados juntos!
-
+🚀 **Em constante evolução**, estou me especializando em **Inteligência Artificial e Aprendizado de Máquina** pela **PUC Minas**, ampliando minhas habilidades para inovar e gerar impacto. Sempre em busca de desafios empolgantes e aprendizado contínuo, vamos conectar e explorar o mundo dos dados juntos!
 
 ## ⚡ **Principais Repositórios:**
 
