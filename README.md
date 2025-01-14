@@ -72,11 +72,3 @@
    <a href="https://instagram.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.kaggle.com/sarahfrezende" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> 
    <a href="https://sarahfrezende.my.canva.site/portfolio-de-dados/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=Portfolio&logoColor=white" alt="Portfólio Badge" width="78">
-</a>
-
-
-
-</div>
-
-</div>
