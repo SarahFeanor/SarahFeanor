@@ -1,8 +1,4 @@
-
-
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFEw6f6m3P39Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711560397088?e=1742428800&v=beta&t=La2KMih4P462Q2Cz7nZWus74v4Id9WQH7U9kpQjTAHE" 
-     alt="Imagem de fundo do LinkedIn" 
-     style="width: 100%; max-width: 1400px;">
+![Nome da Imagem](https://cdn.discordapp.com/attachments/1063559719291199599/1219014351936291056/Yellow_Minimalist_Computer_Sunday_Sermon_Church_Presentation_1.jpg?ex=68cf0995&is=68cdb815&hm=d3bd7775e0ed08c4a0055397f984c5c6ed8f57e71430a9bbb88a6abb0cf3ccae&)
 
 
 ---
