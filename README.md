@@ -1,7 +1,3 @@
-![Nome da Imagem](https://cdn.discordapp.com/attachments/1063559719291199599/1219014351936291056/Yellow_Minimalist_Computer_Sunday_Sermon_Church_Presentation_1.jpg?ex=68cf0995&is=68cdb815&hm=d3bd7775e0ed08c4a0055397f984c5c6ed8f57e71430a9bbb88a6abb0cf3ccae&)
-
-
----
 Atualmente sou **Analista de Dados** no **Grupo Orizonti**, e pós graduanda em Inteligência Artificial e aprendizado de Máquina. Minha jornada é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos, desvendando padrões ocultos e contando histórias convincentes através de análises. 
 
 📊 Meu portifólio inclui:  
