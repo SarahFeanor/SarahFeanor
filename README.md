@@ -1,4 +1,4 @@
-Atualmente sou **Analista de Dados** no **Grupo Orizonti**, e pós graduanda em Inteligência Artificial e aprendizado de Máquina. Minha jornada é guiada pela exploração de dados, criação de visualizações impactantes e resolução de problemas complexos, desvendando padrões ocultos e contando histórias convincentes através de análises. 
+
 
 📊 Meu portifólio inclui:  
 - Previsões de tendências e segmentação de clientes.  
