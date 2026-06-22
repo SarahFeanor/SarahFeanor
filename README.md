@@ -5,8 +5,6 @@
 - Aplicações práticas no Power BI para simplificar dados complexos.  
 - Manipulação de dados com Python, análise estatística, modelagem, SQL e limpeza de dados.  
 
-🚀 **Em constante evolução**, estou me especializando em **Inteligência Artificial e Aprendizado de Máquina** pela **PUC Minas**, ampliando minhas habilidades para inovar e gerar impacto. Sempre em busca de desafios empolgantes e aprendizado contínuo, vamos conectar e explorar o mundo dos dados juntos!
-
 ## ⚡ **Principais Repositórios:**
 
 <div id="header" align="center">
